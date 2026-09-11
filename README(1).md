@@ -1,7 +1,5 @@
 # Vrinda Store Annual Report 2022
 
-![Vrinda Store Annual Report 2022](Vrinda_Store_Annual_Report_2022.png)
-
 ## 📊 Project Overview
 
 The **Vrinda Store Annual Report 2022** is an interactive Excel dashboard created to analyze sales and order performance for an e-commerce store.
