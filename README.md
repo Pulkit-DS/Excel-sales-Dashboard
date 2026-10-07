@@ -1,4 +1,5 @@
 # Vrinda Store Annual Report 2022
+<img width="1137" height="420" alt="Store Dashboard" src="https://github.com/user-attachments/assets/d1df931c-d7d2-4144-ab14-904af4370c0f" />
 
 ## 📊 Project Overview
 
